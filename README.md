@@ -20,3 +20,6 @@ Embora seja apenas um artigo simples, a IA desempenhou um papel fundamental em t
 
 ## 💭 Reflexão (Opcional)
  Consequentemente, acredito firmemente que a integração da IA ​​no kit de ferramentas de qualquer programador é indispensável para avançar, pois agiliza processos e aumenta a produtividade em todos os estágios de desenvolvimento.
+
+ ## Observação
+ Ás vezes, o site pode demorar a carregar por ser um host gratuito, mas geralmente é só atualizar que o site carrega.
