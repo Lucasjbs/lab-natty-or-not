@@ -15,6 +15,7 @@ Eu escrevi o artigo usando ChatGPT e criei as imagens representando Átila com L
 
 ## 🚀 Resultados
 As imagens e textos geradas pelas IAs foram utilizadas para construir um artigo sobre a história de Átila, disponível em: https://a3workbench.000webhostapp.com/br/article/5
+
 Embora seja apenas um artigo simples, a IA desempenhou um papel fundamental em todas as fases do projeto, auxiliando em tarefas que vão desde a geração de texto e imagem até o refinamento de paletas de cores e o fornecimento de insights de codificação.
 
 ## 💭 Reflexão (Opcional)
